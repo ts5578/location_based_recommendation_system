@@ -87,10 +87,11 @@ This project is a location-based recommendation system that provides users with 
 - **style.css:** Stylesheets for the application, defining layout, colors, and fonts for a consistent user interface.
 
 ## Overview
-![Screenshot 2024-10-27 212432](https://github.com/user-attachments/assets/d6c24d5b-4077-4907-b95d-247a3a4f474a)
 ![Screenshot 2024-10-27 212347](https://github.com/user-attachments/assets/e000e72c-142a-4916-8705-f33dd4179233)
 ![Screenshot 2024-10-27 212407](https://github.com/user-attachments/assets/9561cdef-ca1d-4927-ab19-0db7b81ec3e4)
 ![Screenshot 2024-10-27 212421](https://github.com/user-attachments/assets/62aaa24a-feb2-43c9-9676-ced7eb48f15b)
+![Screenshot 2024-10-27 212432](https://github.com/user-attachments/assets/d6c24d5b-4077-4907-b95d-247a3a4f474a)
+
 
 
 ## Technologies Used
