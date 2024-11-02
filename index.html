@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Location-Based Recommendation App</title>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARIkmeEyE9Gy7tvyK-doBirZwT9mHtDLs"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Welcome to the Location-Based Recommendation App</h1>
+    
+    <button id="locationBtn">Share Location</button>
+
+    <div id="categorySelection" style="display:none;">
+        <label for="category">Select a Category:</label>
+        <select id="category"></select>
+        <button id="getRecommendationsBtn">Get Recommendations</button>
+    </div>
+
+    <div id="map" style="height: 500px; width: 100%; margin-top: 20px;"></div>
+    <table id="recommendationsTable" style="display:none;">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Rating</th>
+                <th>Address</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+</html>
+

@@ -1,0 +1,6 @@
+Flask
+geopy
+pandas
+googlemaps
+Flask
+Flask-CORS
