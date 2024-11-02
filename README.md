@@ -3,8 +3,6 @@
 
 A brief description of what this project does and who it's for
 
-Here's a sample `README.md` for the location-based recommendation system:
-
 ---
 
 # Location-Based Recommendation System
